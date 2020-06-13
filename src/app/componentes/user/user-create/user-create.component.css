@@ -1,0 +1,13 @@
+.salvar{
+    background-color: #F9D94B;
+
+}
+
+.salvar span{
+    color: #F4246C;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
